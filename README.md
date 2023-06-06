@@ -1,3 +1,6 @@
+# Tasks submission
+You can use `bartlomiej.banachowicz@student.put.poznan.pl` email address to submit your solution.
+
 # React Todo App Tutorial
 
 This is a hands-on tutorial where you'll be implementing functionality for a Todo app using React. 
